@@ -1,0 +1,6 @@
+D:\project\visualStudioProject\variableSwapping\variableSwapping\bin\Debug\variableSwapping.exe.config
+D:\project\visualStudioProject\variableSwapping\variableSwapping\bin\Debug\variableSwapping.exe
+D:\project\visualStudioProject\variableSwapping\variableSwapping\bin\Debug\variableSwapping.pdb
+D:\project\visualStudioProject\variableSwapping\variableSwapping\obj\Debug\variableSwapping.csprojResolveAssemblyReference.cache
+D:\project\visualStudioProject\variableSwapping\variableSwapping\obj\Debug\variableSwapping.exe
+D:\project\visualStudioProject\variableSwapping\variableSwapping\obj\Debug\variableSwapping.pdb
